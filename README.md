@@ -16,7 +16,7 @@ I used the backtracking algorithm for solving the sudoku and filling the empty s
 2. find the corners of the largest contour of the image using findcontours
 3. get the index of the point using the operator.itegetter
 4. Now we have 4 corners of the sudoku from the image, nnow we can crop and wrap the rectangular secttion from the image.
-# Extractin the digits from the sudoku
+# Extracting the digits from the sudoku
 1. Now infer 81 cells of equal size from the extraced images
 # Predicting the digits
 1. Here, we can predict the digits using the keras and MNIST dataset.
@@ -24,3 +24,6 @@ I used the backtracking algorithm for solving the sudoku and filling the empty s
 3. Prediction can be done in the same order and the number store the predicted value into list
 # Solving sudoku
 1. use the backtracking algorithm for solving the sudoku grid.
+# learning resouces
+1. youtube :- https://www.youtube.com/watch?v=QR66rMS_ZfA
+2. blog::- https://towardsdatascience.com/open-cv-based-sudoku-solver-powered-by-rust-df256653d5b3
