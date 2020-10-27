@@ -24,6 +24,24 @@ I used the backtracking algorithm for solving the sudoku and filling the empty s
 3. Prediction can be done in the same order and the number store the predicted value into list
 # Solving sudoku
 1. use the backtracking algorithm for solving the sudoku grid.
+# Working
+i have used different images for testing and working one of them is:
+1. imput image of sudoku
+![alt text](http://url/to/img.png)
+2. Image of sudoku after thresholding
+![alt text](http://url/to/img.png)
+3. Contour corners of sudoku
+![alt text](http://url/to/img.png)
+4. Wrap Image
+![alt text](http://url/to/img.png)
+5. Final output of extracted image
+![alt text](http://url/to/img.png)
+6. Extracted Grid
+![alt text](http://url/to/img.png)
+7. Solved Grid
+![alt text](http://url/to/img.png)
+
+ 
 # learning resouces
 1. youtube :- https://www.youtube.com/watch?v=QR66rMS_ZfA
 2. blog::- https://towardsdatascience.com/open-cv-based-sudoku-solver-powered-by-rust-df256653d5b3
