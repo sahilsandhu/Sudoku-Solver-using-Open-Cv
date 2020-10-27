@@ -25,21 +25,21 @@ I used the backtracking algorithm for solving the sudoku and filling the empty s
 # Solving sudoku
 1. use the backtracking algorithm for solving the sudoku grid.
 # Working
-i have used different images for testing and working one of them is:
-1. imput image of sudoku
-![sudoku](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/sudoku.jpg)
-2. Image of sudoku after thresholding
-![Threshold](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/threshold.jpg)
-3. Contour corners of sudoku
-![Contour Image](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/contour.jpg)
+i have used different images for testing and working one of them is:</br>
+1. imput image of sudoku</br>
+![sudoku](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/sudoku.jpg)</br>
+2. Image of sudoku after thresholding</br>
+![Threshold](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/threshold.jpg)</br>
+3. Contour corners of sudoku</br>
+![Contour Image](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/contour.jpg)</br>
 4. Wrap Image
-![wrap](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/warp.jpg)
+![wrap](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/warp.jpg)</br>
 5. Final output of extracted image
-![Final](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/final.jpg)
-6. Extracted Grid
+![Final](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/final.jpg)</br>
+6. Extracted Grid</br>
 ![Extracted](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/extracted_grid.png)
-7. Solved Grid
-![Solved Grid](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/solved_grid.png)
+7. Solved Grid</br>
+![Solved Grid](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/solved_grid.png)</br>
 
  
 # learning resouces
