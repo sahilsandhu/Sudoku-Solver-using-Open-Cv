@@ -25,21 +25,21 @@ I used the backtracking algorithm for solving the sudoku and filling the empty s
 # Solving sudoku
 1. use the backtracking algorithm for solving the sudoku grid.
 # Working
-i have used different images for testing and working one of them is:</br>
+i have used different images for testing and working one of them is:</br></br>
 1. imput image of sudoku</br>
-![sudoku](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/sudoku.jpg)</br>
+![sudoku](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/sudoku.jpg)</br></br>
 2. Image of sudoku after thresholding</br>
-![Threshold](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/threshold.jpg)</br>
+![Threshold](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/threshold.jpg)</br></br>
 3. Contour corners of sudoku</br>
-![Contour Image](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/contour.jpg)</br>
-4. Wrap Image
-![wrap](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/warp.jpg)</br>
-5. Final output of extracted image
-![Final](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/final.jpg)</br>
+![Contour Image](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/contour.jpg)</br></br>
+4. Wrap Image</br>
+![wrap](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/warp.jpg)</br></br>
+5. Final output of extracted image</br>
+![Final](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/final.jpg)</br></br>
 6. Extracted Grid</br>
-![Extracted](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/extracted_grid.png)
+![Extracted](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/extracted_grid.png)</br></br>
 7. Solved Grid</br>
-![Solved Grid](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/solved_grid.png)</br>
+![Solved Grid](https://github.com/sahilsandhu/Sudoku-Solver-using-Open-Cv/blob/master/solved_grid.png)</br></br>
 
  
 # learning resouces
